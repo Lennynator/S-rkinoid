@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1a677994828e11140af61e57b7ae0b50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerUpPrefab: {fileID: 3155904200340398989, guid: be9e275242d808047bbe2db052e2cb81, type: 3}
+  - gameOVerScreen: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
